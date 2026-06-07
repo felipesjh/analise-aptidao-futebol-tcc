@@ -1,0 +1,5 @@
+Player,Nation,Pos,Squad,Comp,Age,Born,MP,Min,Gls,Ast,Tkl,Season,Divisao_Alvo,Pos_Primary,MP_p90,Gls_p90,Ast_p90,Tkl_p90
+Gabriel Barbosa,br BRA,"FW,MF",Flamengo,br Série A,22.0,1996,30,2500,15,4,10,2019,Série A,FW,1.08,0.54,0.14400000000000002,0.36
+Claudinho,br BRA,"MF,FW",Bragantino,br Série B,21.0,1997,34,3000,10,6,14,2019,Série B,MF,0.765,0.22500000000000003,0.135,0.31500000000000006
+Michael,br BRA,FW,Goias,br Série B,22.0,1996,35,3100,9,5,12,2018,Série B,FW,0.7620967741935484,0.19596774193548389,0.1088709677419355,0.26129032258064516
+João Ricardo,br BRA,GK,Chapecoense,br Série B,28.0,1991,38,3420,0,0,0,2020,Série B,GK,0.75,0.0,0.0,0.0

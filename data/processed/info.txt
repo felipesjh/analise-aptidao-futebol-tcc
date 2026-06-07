@@ -1,0 +1,1 @@
+# Pasta para arquivo .csv pre-processados que irão ser jogados no Modelo e no Front.

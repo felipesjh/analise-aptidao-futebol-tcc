@@ -1,0 +1,1 @@
+# Pasta para abrigar análises exploratórias (Jupyter).

@@ -1,0 +1,1 @@
+# Pasta para guardar os dados puros extraídos ou baixados do FBRef.
