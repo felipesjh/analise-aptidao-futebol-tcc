@@ -18,3 +18,7 @@ env/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Pastas locais ignoradas
+docs/
+pitacos de IAs/
